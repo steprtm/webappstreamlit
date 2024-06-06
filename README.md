@@ -10,3 +10,5 @@
 
 
 ## Hasil : ![EXdskFOO6e](https://github.com/steprtm/webappstreamlit/assets/129705802/a758de7d-a8cb-4694-80bc-0ac357217e2b)
+
+Install streamlit ```pip install streamlit```
